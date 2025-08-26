@@ -1,2 +1,15 @@
-# AI_NEWS_SUMMERISED_PROJECT
-A Flask-based web app that generates concise summaries and sentiment analysis from news article URLs. Leverages NLP libraries like Newspaper3k, NLTK, and TextBlob. Features a responsive design with light/dark theme toggle. Ideal for students and professionals seeking quick news insights. #Python #NLP #WebApp
+A Flask-based web application that automatically summarizes news articles and analyzes their sentiment using NLP. Simply paste a URL, and the tool extracts the article, generates a concise summary, and detects emotional tone (😊 Positive, 😟 Negative, or 😐 Neutral). Built with Python, Newspaper3k, NLTK, TextBlob, and vanilla JavaScript. Perfect for students, researchers, and anyone looking to digest news faster.
+
+Features:
+
+📝 URL-based article scraping and parsing
+
+🤖 AI-powered text summarization
+
+🎭 Sentiment analysis with emoji visualization
+
+🌙 Light/dark mode toggle
+
+📱 Responsive, clean UI
+
+Tech Stack: Python, Flask, Newspaper3k, NLTK, TextBlob, HTML, CSS, JavaScript.
